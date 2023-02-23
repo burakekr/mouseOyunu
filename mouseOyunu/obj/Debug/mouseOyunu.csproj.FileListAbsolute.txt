@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\bin\Debug\mouseOyunu.exe.config
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\bin\Debug\mouseOyunu.exe
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\bin\Debug\mouseOyunu.pdb
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\obj\Debug\mouseOyunu.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\obj\Debug\mouseOyunu.Form1.resources
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\obj\Debug\mouseOyunu.Properties.Resources.resources
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\obj\Debug\mouseOyunu.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\obj\Debug\mouseOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\obj\Debug\mouseOyunu.exe
+C:\Users\Dell\Desktop\burak\okul\10.Sınıf\Ntp\mouseOyunu\obj\Debug\mouseOyunu.pdb
